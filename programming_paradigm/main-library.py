@@ -1,6 +1,4 @@
 from library_management import Book, Library
-
-
 def main():
     # Setup a small library
     library = Library()
